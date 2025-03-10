@@ -1,12 +1,13 @@
 import React from 'react';
 import './App.css';
-import ExampleTable from './components/ExampleTable';
+//import ExampleTable from './components/ExampleTable';
+import ExampleTable2 from './components/sellerReport';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <ExampleTable />
+        <ExampleTable2 />
       </header>
     </div>
   );
